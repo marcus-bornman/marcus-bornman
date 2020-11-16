@@ -60,28 +60,28 @@
 
 <p width="100%" align="center">
     <a align="left" href="https://github.com/marcus-bornman/Algorithms" title="Algorithms">
-        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=itc2007&theme=gotham">
+        <img align="left" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=itc2007&theme=gotham">
     </a>
     <a align="right" href="https://github.com/marcus-bornman/DataStructures" title="Data Structures">
-        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=rsa_scan&theme=gotham">
+        <img align="right" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=rsa_scan&theme=gotham">
     </a>
 </p>
 <br><br>
 <p width="100%" align="center">
     <a align="left" href="https://github.com/marcus-bornman/Algorithms" title="Algorithms">
-        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=masterpass&theme=gotham">
+        <img align="left" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=masterpass&theme=gotham">
     </a>
     <a align="right" href="https://github.com/marcus-bornman/DataStructures" title="Data Structures">
-        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=rsa_identification&theme=gotham">
+        <img align="right" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=rsa_identification&theme=gotham">
     </a>
 </p>
 <br><br>
 <p width="100%" align="center">
     <a align="left" href="https://github.com/marcus-bornman/Algorithms" title="Algorithms">
-        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=measurements&theme=gotham">
+        <img align="left" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=measurements&theme=gotham">
     </a>
     <a align="right" href="https://github.com/marcus-bornman/DataStructures" title="Data Structures">
-        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FirebaseExtended&repo=flutterfire&theme=gotham">
+        <img align="right" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FirebaseExtended&repo=flutterfire&theme=gotham">
     </a>
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -90,33 +90,33 @@
 
 <p width="100%" align="center">
     <a align="left" href="https://github.com/marcus-bornman/Algorithms" title="Algorithms">
-        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_1&theme=gotham">
+        <img align="left" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_1&theme=gotham">
     </a>
     <a align="right" href="https://github.com/marcus-bornman/DataStructures" title="Data Structures">
-        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_1&theme=gotham">
+        <img align="right" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_1&theme=gotham">
     </a>
 </p>
 <br><br>
 <p width="100%" align="center">
     <a align="left" href="https://github.com/marcus-bornman/Algorithms" title="Algorithms">
-        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_2&theme=gotham">
+        <img align="left" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_2&theme=gotham">
     </a>
     <a align="right" href="https://github.com/marcus-bornman/DataStructures" title="Data Structures">
-        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_2&theme=gotham">
+        <img align="right" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_2&theme=gotham">
     </a>
 </p>
 <br><br>
 <p width="100%" align="center">
     <a align="left" href="https://github.com/marcus-bornman/Algorithms" title="Algorithms">
-        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_3&theme=gotham">
+        <img align="left" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_3&theme=gotham">
     </a>
     <a align="right" href="https://github.com/marcus-bornman/DataStructures" title="Data Structures">
-        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_3&theme=gotham">
+        <img align="right" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_3&theme=gotham">
     </a>
 </p>
 <br><br>
 <p width="100%" align="center">
     <a align="left" href="https://github.com/marcus-bornman/Algorithms" title="Algorithms">
-        <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_730_project&theme=gotham">
+        <img align="left" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_730_project&theme=gotham">
     </a>
 </p>
