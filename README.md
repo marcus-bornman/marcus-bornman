@@ -84,7 +84,7 @@
         <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FirebaseExtended&repo=flutterfire&theme=gotham">
     </a>
 </p>
-<br/><br/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">My Own Public Repositories</h2>
 
