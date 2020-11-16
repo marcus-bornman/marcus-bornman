@@ -86,6 +86,7 @@
         <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=FirebaseExtended&repo=flutterfire&theme=gotham">
     </a>
 </p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <hr>
 
