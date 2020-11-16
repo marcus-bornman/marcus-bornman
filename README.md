@@ -85,9 +85,6 @@
     <a  href="https://github.com/born-ideas/measurements" title="Measurements">
         <img  width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=measurements&theme=gotham">
     </a>
-    <a  href="https://github.com/FirebaseExtended/flutterfire" title="Flutterfire">
-        <img  width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FirebaseExtended&repo=flutterfire&theme=gotham">
-    </a>
 </p>
 
 <hr>
