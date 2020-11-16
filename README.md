@@ -52,9 +52,14 @@
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=marcus-bornman&show_icons=true&theme=gotham">
-</a>
+<p width="100%" align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img width="47%" src="https://github-readme-stats.vercel.app/api?username=marcus-bornman&show_icons=true&theme=gotham">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcus-bornman&layout=compact&langs_count=5&hide=tex">
+    </a>
+</p>
 
 <hr>
 
