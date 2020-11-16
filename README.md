@@ -53,11 +53,11 @@
 <hr>
 
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marcus-bornman&show_icons=true&theme=gotham">
+    <a  href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img  width="47%" src="https://github-readme-stats.vercel.app/api?username=marcus-bornman&show_icons=true&theme=gotham">
     </a>
-    <a align="right" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcus-bornman&layout=compact&langs_count=5&hide=tex">
+    <a  href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcus-bornman&layout=compact&langs_count=5&hide=tex">
     </a>
 </p>
 
@@ -66,29 +66,29 @@
 <h2 align="center">Public Repositories Where I've Made Notable Contributions</h2>
 
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/born-ideas/itc2007" title="ITC2007">
-        <img align="left" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=itc2007&theme=gotham">
+    <a  href="https://github.com/born-ideas/itc2007" title="ITC2007">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=itc2007&theme=gotham">
     </a>
-    <a align="right" href="https://github.com/born-ideas/rsa_scan" title="RSA Scan">
-        <img align="right" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=rsa_scan&theme=gotham">
-    </a>
-</p>
-<br><br>
-<p width="100%" align="center">
-    <a align="left" href="https://github.com/born-ideas/masterpass" title="Masterpass">
-        <img align="left" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=masterpass&theme=gotham">
-    </a>
-    <a align="right" href="https://github.com/born-ideas/rsa_identification" title="RSA Identification">
-        <img align="right" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=rsa_identification&theme=gotham">
+    <a  href="https://github.com/born-ideas/rsa_scan" title="RSA Scan">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=rsa_scan&theme=gotham">
     </a>
 </p>
 <br><br>
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/born-ideas/measurements" title="Measurements">
-        <img align="left" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=measurements&theme=gotham">
+    <a  href="https://github.com/born-ideas/masterpass" title="Masterpass">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=masterpass&theme=gotham">
     </a>
-    <a align="right" href="https://github.com/FirebaseExtended/flutterfire" title="Flutterfire">
-        <img align="right" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=FirebaseExtended&repo=flutterfire&theme=gotham">
+    <a  href="https://github.com/born-ideas/rsa_identification" title="RSA Identification">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=rsa_identification&theme=gotham">
+    </a>
+</p>
+<br><br>
+<p width="100%" align="center">
+    <a  href="https://github.com/born-ideas/measurements" title="Measurements">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=born-ideas&repo=measurements&theme=gotham">
+    </a>
+    <a  href="https://github.com/FirebaseExtended/flutterfire" title="Flutterfire">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=FirebaseExtended&repo=flutterfire&theme=gotham">
     </a>
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -98,34 +98,34 @@
 <h2 align="center">My Own Public Repositories</h2>
 
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/marcus-bornman/cos_710_assignment_1" title="COS710 Assignment 1">
-        <img align="left" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_1&theme=gotham">
+    <a  href="https://github.com/marcus-bornman/cos_710_assignment_1" title="COS710 Assignment 1">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_1&theme=gotham">
     </a>
-    <a align="right" href="https://github.com/marcus-bornman/cos_790_assignment_1" title="COS790 Assignment 1">
-        <img align="right" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_1&theme=gotham">
-    </a>
-</p>
-<br><br>
-<p width="100%" align="center">
-    <a align="left" href="https://github.com/marcus-bornman/cos_710_assignment_2" title="COS710 Assignment 2">
-        <img align="left" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_2&theme=gotham">
-    </a>
-    <a align="right" href="https://github.com/marcus-bornman/cos_790_assignment_2" title="COS790 Assignment 2">
-        <img align="right" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_2&theme=gotham">
+    <a  href="https://github.com/marcus-bornman/cos_790_assignment_1" title="COS790 Assignment 1">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_1&theme=gotham">
     </a>
 </p>
 <br><br>
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/marcus-bornman/cos_710_assignment_3" title="COS710 Assignment 2">
-        <img align="left" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_3&theme=gotham">
+    <a  href="https://github.com/marcus-bornman/cos_710_assignment_2" title="COS710 Assignment 2">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_2&theme=gotham">
     </a>
-    <a align="right" href="https://github.com/marcus-bornman/cos_790_assignment_3" title="COS790 Assignment 2">
-        <img align="right" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_3&theme=gotham">
+    <a  href="https://github.com/marcus-bornman/cos_790_assignment_2" title="COS790 Assignment 2">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_2&theme=gotham">
     </a>
 </p>
 <br><br>
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/marcus-bornman/cos_730_project" title="COS730 Project">
-        <img align="left" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_730_project&theme=gotham">
+    <a  href="https://github.com/marcus-bornman/cos_710_assignment_3" title="COS710 Assignment 2">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_710_assignment_3&theme=gotham">
+    </a>
+    <a  href="https://github.com/marcus-bornman/cos_790_assignment_3" title="COS790 Assignment 2">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_790_assignment_3&theme=gotham">
+    </a>
+</p>
+<br><br>
+<p width="100%" align="center">
+    <a  href="https://github.com/marcus-bornman/cos_730_project" title="COS730 Project">
+        <img   width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcus-bornman&repo=cos_730_project&theme=gotham">
     </a>
 </p>
