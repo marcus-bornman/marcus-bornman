@@ -4,7 +4,7 @@
   <br>
   👔 I'm currently working as a Team Lead at <a href="https://www.frei.one" title="Issues">FREI One Digital (Pty) Ltd</a>.
   <br>
-  🍃 I am a Founder and Director of <a href="https://www.born.dev" title="Issues">BornIdeas (Pty) Ltd</a>.
+  🍃 I am a Founder and Director of <a href="https://www.born.dev" title="Issues">BornIdeas</a>.
   <br>
   🔬 I'm studying towards an Honour's degree in Computer Science at The University of Pretoria.
   <br>
