@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   <br>
-  👔 I'm currently working as a Team Lead at <a href="https://www.frei.one" title="Issues">FREI One Digital (Pty) Ltd</a>.
+  👔 I'm currently working as a Software Engineer at <a href="https://www.entelect.co.za" title="Issues">Entelect</a>.
   <br>
   🍃 I am a Founder and Director of <a href="https://www.born.dev" title="Issues">BornIdeas</a>.
   <br>
